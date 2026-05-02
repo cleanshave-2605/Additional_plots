@@ -6,4 +6,4 @@
 
 ---
 
-**Figure caption** -- Figure titled ``lambda_sens.pdf`` contains the sensitivity analysis of the regularization parameter $\lambda$. As hypothesized, with increasing value of $\lambda$, the percentage of configurations ending in $(1, 1)$ reduce and the system becomes more susceptible towards popularity bias.
+**Figure caption** -- Figure titled ``lambda_sens.pdf`` contains the sensitivity analysis of the regularization parameter $\lambda$. As hypothesized, with increasing value of $\lambda$, the percentage of configurations ending in $(1, 1)$ reduce and the system becomes more susceptible towards popularity bias. The convergence is measured with a sensitivity of $1e-2$.
