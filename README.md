@@ -3,3 +3,7 @@
 ---
 
 **Figure caption** -- Figure titled ``int_data_sim_14.pdf`` is the updated plot for Fig 6. run for 100,000 time steps.
+
+---
+
+**Figure caption** -- Figure titled ``lambda_sens.pdf`` contains the sensitivity analysis of the regularization parameter $\lambda$. As hypothesized, with increasing value of $\lambda$, the percentage of configurations ending in $(1, 1)$ reduce and the system becomes more susceptible towards popularity bias.
